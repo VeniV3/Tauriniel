@@ -1,0 +1,19 @@
+package me.veni;
+
+public class Launcher {
+	public static void main(String[] args) {
+		String[] ewaluacja = new String[5];
+		ewaluacja[4] = "troche";
+		ewaluacja[2] = "niema";
+		System.out.println(returnInt());
+		returnInt();
+	}
+	public static int returnInt() {
+		int a = 5;
+		int b = 4;
+		return b;
+	
+		
+	}
+}
+//kliknij 1 wyœwietl 3 wartoœæ

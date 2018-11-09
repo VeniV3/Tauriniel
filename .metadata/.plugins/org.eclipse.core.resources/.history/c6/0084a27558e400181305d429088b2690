@@ -1,0 +1,10 @@
+package me.veni;
+
+public class Launcher {
+	public static void main(String[] args) {
+		String[] ewaluacja = new String[5];
+		ewaluacja[4] = "troche";
+		ewaluacja[2] = "niema";
+		System.out.println(ewaluacja[2]);
+	}
+}

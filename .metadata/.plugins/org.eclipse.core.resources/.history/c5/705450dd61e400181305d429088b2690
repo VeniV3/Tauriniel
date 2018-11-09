@@ -1,0 +1,29 @@
+package me.veni;
+
+import java.util.Scanner;
+
+public class Extension {
+	
+	Scanner s;
+	
+	public Extension() {
+		s = new Scanner(System.in);
+		roar();
+	}
+	
+	private void roar() {
+		if(s.nextLine() == "chuj") {
+			System.out.println("good");
+			
+		}else if(s.nextLine() == "dwachuje"){
+			System.out.println("least good");
+	
+			
+			
+		}else {
+			System.out.println("zle");
+		}
+		
+	}
+	//konkretny ci¹g znaków
+}

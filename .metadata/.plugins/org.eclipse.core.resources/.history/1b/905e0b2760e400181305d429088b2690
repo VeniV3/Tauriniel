@@ -1,0 +1,18 @@
+package me.veni;
+
+import java.util.Scanner;
+
+public class Extension {
+	
+	Scanner s;
+	
+	public Extension() {
+		s = new Scanner(System.in);
+		roar();
+	}
+	
+	private void roar() {
+		System.out.println(s.nextLine());
+	}
+	
+}

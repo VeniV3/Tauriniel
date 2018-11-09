@@ -1,0 +1,7 @@
+package me.veni;
+
+public class Extension {
+	private void test() {
+		System.out.println("test");
+	}
+}

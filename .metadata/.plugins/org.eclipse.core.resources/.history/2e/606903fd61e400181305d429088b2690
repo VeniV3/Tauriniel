@@ -1,0 +1,11 @@
+package me.veni;
+
+public class Ext {
+	private void test() {
+		System.out.println("test");
+	}
+
+	public static void main(String[] args) {
+		"chuj"
+	}
+}

@@ -1,0 +1,13 @@
+package me.veni;
+
+public class Launcher {
+	public static void main(String[] args) {
+		Extension ext = new Extension();
+		Ext e = new Ext();
+		Integer i = new Integer(10);
+		String[] ewaluacja = new String[3];
+		
+		//TYP NAZWA = NOWY tYP();
+	}
+}
+//kliknij 1 wyœwietl 3 wartoœæ

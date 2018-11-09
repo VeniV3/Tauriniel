@@ -1,0 +1,7 @@
+package me.veni;
+
+public class Extension {
+	public Extension() {
+		System.out.println("dzienki kuba");
+	}
+}

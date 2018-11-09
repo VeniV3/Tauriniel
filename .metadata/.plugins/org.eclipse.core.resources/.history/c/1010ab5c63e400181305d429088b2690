@@ -1,0 +1,14 @@
+package me.veni;
+
+import javax.swing.JFrame;
+
+public class test {
+
+	JFrame frame;
+	public void create() {
+		frame.setSize(400, 400);
+		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
+		
+	}
+	
+}
